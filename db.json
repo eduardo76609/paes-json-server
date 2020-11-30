@@ -1,16 +1,11 @@
 {
-  "posts":[
-    {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
-    }
-  ]
-}
+    "terms": [
+        {
+            "from_date": "01/01/2020",
+            "id": 1,
+            "title": "example",
+            "toDate": "02/02/2020",
+            "year": "2020"
+        }
+    ]
+  }
